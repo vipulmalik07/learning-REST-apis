@@ -25,13 +25,13 @@ let posts = [
     {
         id: uuidv4(),
         username: "shivam trar",
-        content: "i love chating"
+        content: "i love chatting"
 
     },
     {
         id: uuidv4(),
         username: "rajat dixit",
-        content: "i love cooking"
+        content: "i love copying"
 
     },
 ]
